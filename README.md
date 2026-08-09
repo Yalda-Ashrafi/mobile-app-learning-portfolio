@@ -36,6 +36,7 @@ analytical reflections on the techniques covered.
 | 
 https://developers.google.com/profile/badges/recognitions/learnings
 
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/515c5c8e5acc1911bd57f82e4cd088e45d06bb95/Assets/badges.png)
 ## Android Developer Profile
 
 https://me.developers.google.com/u/102202673482972630051
