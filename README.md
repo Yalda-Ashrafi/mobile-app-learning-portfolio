@@ -33,7 +33,7 @@ analytical reflections on the techniques covered.
 
 | Badge Name | Module | Date Earned |
 |------------|--------|-------------|
-| 
+ 
 https://developers.google.com/profile/badges/recognitions/learnings
 
 ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/e77ec7fbf5ee5d3c67d3fdc22dc69e1854bd4d36/Assets/Badges...png)
@@ -43,4 +43,5 @@ https://me.developers.google.com/u/102202673482972630051
 
 
 ## Reflection Summary
-[2-3 sentence summary — expand fully in Reflection/Reflection.md]
+I learned how to build my first Android Studio app, starting with a simple “Hello Yalda” greeting.  
+This experience gave me confidence to explore more features and continue improving my coding skills.
