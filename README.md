@@ -33,10 +33,13 @@ analytical reflections on the techniques covered.
 
 | Badge Name | Module | Date Earned |
 |------------|--------|-------------|
-| | | |
+| 
+https://developers.google.com/profile/badges/recognitions/learnings
 
 ## Android Developer Profile
-[Link to your Android Developers profile page]
+
+https://me.developers.google.com/u/102202673482972630051
+
 
 ## Reflection Summary
 [2-3 sentence summary — expand fully in Reflection/Reflection.md]
