@@ -1,5 +1,3 @@
-# mobile-app-learning-portfolio
-CDE2313 Mobile Application Development – Android Developers learning portfolio
 # Mobile Application Learning Portfolio — CDE2313
 
 ## Student Information
