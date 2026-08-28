@@ -9,11 +9,11 @@ The app displays a personalized birthday greeting message with clean typography 
 ---
 
 ###  Key Features
-- **Jetpack Compose UI** — declarative and modern Android UI framework  
-- **Material 3 Design** — polished look with adaptive theming  
-- **Dynamic Layout** — adjusts to different screen sizes  
-- **Composable Functions** — reusable and efficient code structure  
-- **Preview Support** — real‑time design visualization in Android Studio  
+- **Jetpack Compose UI** : declarative and modern Android UI framework  
+- **Material 3 Design** : polished look with adaptive theming  
+- **Dynamic Layout** : adjusts to different screen sizes  
+- **Composable Functions** : reusable and efficient code structure  
+- **Preview Support** : real‑time design visualization in Android Studio  
 
 ---
 
