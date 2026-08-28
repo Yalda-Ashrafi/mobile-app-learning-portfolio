@@ -2,25 +2,22 @@
 #  Module‑1 — Part‑2  
 ## Running Android Apps on a Physical Device
 
-###  What You'll Need
-- Android Studio installed on your computer  
-- An app project set up in Android Studio  
+##  What You'll Need
+Before I could run my app on a real device, I made sure I had:
+- Android Studio installed on my computer  
+- A simple Kotlin project already set up  
 
 ---
 
-###  Steps I Learned
-1. **Enable USB Debugging**  
-   - Turn on Developer Options on the phone  
-   - Enable USB Debugging  
+###  Steps I Followed
+1. **Turned on USB Debugging**  
+   I went into my phone’s Developer Options and enabled USB Debugging so my computer could talk to the device.  
 
-2. **Run with a USB Cable**  
-   - Connect the phone via USB  
-   - Install OEM USB drivers (Windows) if needed  
-   - Select the device in Android Studio and run the app  
+2. **Connected with a USB Cable**  
+   I plugged my phone into the computer. Since I’m on Windows, I also installed the OEM USB drivers to make sure Android Studio recognized my device. Once connected, I could see my phone listed in the run menu and launch the app directly.  
 
-3. **Run with Wi‑Fi**  
-   - Pair using a QR code or 6‑digit code  
-   - Run the app wirelessly if no cable is available  
+3. **Tried Running with Wi‑Fi**  
+   I learned that if I don’t have a cable, I can still connect wirelessly. Android Studio lets me pair my phone using either a QR code or a 6‑digit code, and then I can run the app over Wi‑Fi.  
 
 ---
 
