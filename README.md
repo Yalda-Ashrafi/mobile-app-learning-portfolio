@@ -50,8 +50,8 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
 |--------------------|------------------|
 | ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0f0119b64fe2e172fa0947fd4c6dfa801e92aba1/Assets/Happy_Birthday.png)
 | ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0f0119b64fe2e172fa0947fd4c6dfa801e92aba1/Assets/Output.png)
-
----
+ ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/83655811d3a257f35c7de2e7b81bd122f0c97d6d/Assets/Badges.png)
+ ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/83655811d3a257f35c7de2e7b81bd122f0c97d6d/Assets/badge.png)
 
 ###  Tech Stack
 | Technology | Purpose |
