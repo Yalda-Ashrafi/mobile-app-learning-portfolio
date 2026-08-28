@@ -39,5 +39,5 @@ Here is my Kotlin app running successfully on the Android Emulator:
 
 ---
 
-### 🧩 Reflection
+###  Reflection
 This part taught me how to connect Android Studio to my PC and run apps directly on my phone. I now understand both USB and Wi‑Fi debugging methods, how to troubleshoot connection issues, and why proper drivers are essential for Windows users.
