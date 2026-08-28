@@ -1,5 +1,5 @@
 ﻿
-## 🎉 Happy Birthday App — Module 1 Part 3
+##  Happy Birthday App — Module 1 Part 3
 
 ### Overview
 The **Happy Birthday App** is a simple yet elegant Android application built using **Jetpack Compose**.  
@@ -49,9 +49,11 @@ This composable function defines the greeting layout, combining text alignment, 
 ###  App Preview
 *(Replace these placeholders with your actual screenshots once uploaded to GitHub)*
 
-| 🎂 Home Screen | 💌 Greeting Card View |
+|  Home Screen |  Greeting Card View |
 |----------------|----------------------|
-| `![App Screenshot 1](image1.png)` | `![App Screenshot 2](image2.png)` |
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/83655811d3a257f35c7de2e7b81bd122f0c97d6d/Assets/Badges.png)
+ ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/83655811d3a257f35c7de2e7b81bd122f0c97d6d/Assets/badge.png)
+
 
 ---
 
