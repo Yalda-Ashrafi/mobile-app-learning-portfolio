@@ -1,14 +1,14 @@
 
-# 📱 Module‑1 — Part‑2  
+#  Module‑1 — Part‑2  
 ## Running Android Apps on a Physical Device
 
-### 🧠 What You'll Need
+###  What You'll Need
 - Android Studio installed on your computer  
 - An app project set up in Android Studio  
 
 ---
 
-### ⚙️ Steps I Learned
+###  Steps I Learned
 1. **Enable USB Debugging**  
    - Turn on Developer Options on the phone  
    - Enable USB Debugging  
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Troubleshooting
+###  Troubleshooting
 - If Android Studio doesn’t recognize the device: unplug/replug the cable or restart Android Studio  
 - If the device is unauthorized:  
   - On the phone → Settings → Developer Options → Revoke USB debugging authorizations  
@@ -33,11 +33,12 @@
 - Windows users: install the correct **OEM USB driver** if emulator/device connection fails  
 
 ---
+### Running the App on Emulator
+Here is my Kotlin app running successfully on the Android Emulator:
 
-### 🔗 Learn More
-- [Run apps on a hardware device](https://developer.android.com/studio/run/device)  
-- [Install OEM USB drivers](https://developer.android.com/studio/run/oem-usb)  
-- [Google USB Driver](https://developer.android.com/studio/run/win-usb)  
+![App Running Screenshot](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/cf8b9a3bd0d7c5ce9a072a05786407889c0bad6a/Assets/Hello%20Android.png)
+![App Running Screenshot](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/cf8b9a3bd0d7c5ce9a072a05786407889c0bad6a/Assets/highlight.png)
+
 
 ---
 
