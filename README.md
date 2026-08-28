@@ -79,8 +79,3 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
 Student Developer | Mobile Application Development  
 Albukhary International University
 
----
-
-✨ This version now includes your **two screenshots** side‑by‑side, making the README visually engaging and professional.  
-
-Would you like me to also create a **short Analysis.md outline** for Part 3 (purpose, challenges, learning outcomes) so your module submission ticks every requirement box?
