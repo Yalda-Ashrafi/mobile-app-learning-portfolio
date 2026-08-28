@@ -17,8 +17,8 @@ Shows how to declare variables and print messages explaining when to use `val` v
 
 **Output:**
 ```
-![image alt]()
-![image alt]()
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0389b5dd05aee06d1f4233b500565c7a8c862211/Assets/badge_Kotlin.png)
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0389b5dd05aee06d1f4233b500565c7a8c862211/Assets/img.png)
 Use the val keyword when the value doesn't change.
 Use the var keyword when the value can change.
 When you define a function, you define the parameters that can be passed to it.
