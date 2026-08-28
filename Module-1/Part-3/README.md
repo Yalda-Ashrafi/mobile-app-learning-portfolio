@@ -47,7 +47,6 @@ This composable function defines the greeting layout, combining text alignment, 
 ---
 
 ###  App Preview
-*(Replace these placeholders with your actual screenshots once uploaded to GitHub)*
 
 |  Home Screen |  Greeting Card View |
 |----------------|----------------------|
