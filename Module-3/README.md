@@ -26,6 +26,11 @@ An interactive multi-step application that takes users through the process of se
 *   **Visual Polish & Design Guidelines:** Configured precise Material Design parameters, including an `18sp` text size, `16dp` spacer arrangement, `RoundedCornerShape(4.dp)`, and a specialized border stroke color `RGB(105, 205, 216)`.
 *   **Accessibility Integration:** Integrated dynamic string resources and distinct content descriptions on all graphical elements to provide full support for screen readers.
 
+#### 📸 App Preview & Demonstration:
+*   **Application Screenshot:**
+    ![Lemonade App Preview](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/3a1998e42ec53bfc53d5042ef9e0e4ad480c11f1/Assets/A.png)
+*   **Video Walkthrough:** Watch the app in action on Google Drive: [Lemonade App Execution Video](https://drive.google.com/file/d/1ldeKdAjEKqIvLeprxVCib8eL-_0ZtUfy/view?usp=sharing)
+
 ---
 
 ## 🛠️ Technical Concepts Covered
