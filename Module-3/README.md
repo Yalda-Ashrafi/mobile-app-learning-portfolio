@@ -37,7 +37,7 @@ An interactive multi-step application that takes users through the process of se
 
 ---
 
-## 🛠️ Technical Concepts Covered
+##  Technical Concepts Covered
 
 ### Jetpack Compose Fundamentals
 *   **Button & Image Composables:** Learning the properties and parameters (like `painterResource` and `contentDescription`) to display interactive visual elements.
