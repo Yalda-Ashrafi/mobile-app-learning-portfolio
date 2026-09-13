@@ -17,6 +17,7 @@ Each section covers a core concept — from conditionals and functions to classe
 - 💰 **Special Auction** – Null‑safety and Elvis operator usage  
 
 ---
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/e32814b6ad9330e4df98b8a39821ebc367710e23/Assets/F.png)
 
 ### Tech Stack
 | Component | Description |
