@@ -2,7 +2,6 @@
 
 An Android application built with **Kotlin** and **Jetpack Compose** to showcase a curated collection of artwork in an interactive gallery.  
 
-
 ##  Overview
 This project demonstrates modern Android development practices:
 - Declarative UI with **Jetpack Compose**  
@@ -48,7 +47,6 @@ Student Developer | Android Development
 Kedah, Malaysia  
 
 ---
-
-👉 This version is concise, professional, and recruiter‑friendly: it shows your **skills, stack, and results** clearly.  
+ This version is concise, professional, and recruiter‑friendly: it shows your **skills, stack, and results** clearly.  
 
 Would you like me to also craft a **one‑paragraph “Project Pitch”** (like a LinkedIn description) so you can reuse it outside GitHub?
