@@ -3,7 +3,7 @@
 ## Overview
 This module focuses on building a dynamic and interactive user interface using **Jetpack Compose**. The primary project is **Tip Time**, a functional tip calculator that demonstrates the power of state management, user input handling, and adaptive layouts in modern Android development.
 
-## 🚀 Key Features
+##  Key Features
 - **Dynamic Tip Calculation**: Calculates tips in real-time as the user types.
 - **Customizable Tip Percentage**: Users can enter a custom percentage to calculate the tip.
 - **Rounding Logic**: A toggle switch allows users to round up the tip to the nearest whole number.
@@ -21,7 +21,7 @@ Watch the app in action: [Tip Time App Demo Recording](https://drive.google.com/
 
 ---
 
-## 🧠 Concepts Learned
+## Concepts Learned
 
 ### 1. State and Recomposition
 Understanding how Compose tracks changes to data and automatically updates the UI.
@@ -47,7 +47,7 @@ Deep dive into essential UI elements:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Language**: Kotlin
 - **Framework**: Jetpack Compose
 - **Design System**: Material Design 3
