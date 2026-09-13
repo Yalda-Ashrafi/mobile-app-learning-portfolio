@@ -2,6 +2,8 @@
 
 Welcome to the third module of my Android development journey! This module focused on transitioning from static layouts to dynamic, interactive user interfaces using **Jetpack Compose**. I learned how to handle user interactions, manage UI state, and use essential debugging tools in Android Studio.
 
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/77af9ffc257cd27ee7a080d3f4ee78d6fdb9e695/Assets/c.png)
+
 ##  Projects in this Module
 
 ### 1. Interactive Dice Roller App
