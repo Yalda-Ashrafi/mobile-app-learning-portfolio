@@ -46,7 +46,5 @@ Users can browse artworks, view details (title, artist, year), and navigate with
 Student Developer | Android Development  
 Kedah, Malaysia  
 
----
- This version is concise, professional, and recruiter‑friendly: it shows your **skills, stack, and results** clearly.  
 
 Would you like me to also craft a **one‑paragraph “Project Pitch”** (like a LinkedIn description) so you can reuse it outside GitHub?
