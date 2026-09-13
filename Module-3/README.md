@@ -16,8 +16,15 @@ A fun, interactive application that simulates a dice roll. Users can tap a butto
 
 ---
 
-### 2. [Coming Soon]
-*Currently working on the next project for this module. Stay tuned!*
+### 2. Interactive Lemonade App
+An interactive multi-step application that takes users through the process of selecting a lemon from a tree, squeezing it multiple times to make juice, drinking the refreshing lemonade, and restarting from an empty glass.
+
+#### Key Learnings & Skills:
+*   **Advanced Squeeze Logic:** Implemented a randomized tap threshold (2-4 taps) dynamically generated each time a fresh lemon is chosen from the tree, tracking click progression before advancing.
+*   **Highly Reusable UI Components:** Authored a clean, modular `LemonTextAndImage` composable function that parameterized the text label, images, and custom click actions for maintainable and scalable code.
+*   **State Optimization:** Utilized specialized `mutableIntStateOf` to store primitive integers directly without boxing overhead, optimizing performance across recompositions.
+*   **Visual Polish & Design Guidelines:** Configured precise Material Design parameters, including an `18sp` text size, `16dp` spacer arrangement, `RoundedCornerShape(4.dp)`, and a specialized border stroke color `RGB(105, 205, 216)`.
+*   **Accessibility Integration:** Integrated dynamic string resources and distinct content descriptions on all graphical elements to provide full support for screen readers.
 
 ---
 
@@ -30,7 +37,7 @@ A fun, interactive application that simulates a dice roll. Users can tap a butto
 
 ### Kotlin for Android
 *   **Function Literals (Lambdas):** Writing concise, inline functions for callbacks.
-*   **Randomness:** Using `(1..6).random()` to implement business logic.
+*   **Randomness:** Using `(1..6).random()` and `(2..4).random()` to implement game and business logic.
 
 ### Debugging in Android Studio
 *   Attaching the debugger to a running process.
