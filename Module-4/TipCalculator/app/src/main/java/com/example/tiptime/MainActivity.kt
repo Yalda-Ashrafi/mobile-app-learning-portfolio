@@ -177,7 +177,7 @@ fun RoundTheTipRow(
             modifier = Modifier
                 .fillMaxWidth()
                 .wrapContentWidth(Alignment.End)
-        )
+        )23
     }
 }
 
