@@ -2,10 +2,12 @@
 
 Welcome to the third module of my Android development journey! This module focused on transitioning from static layouts to dynamic, interactive user interfaces using **Jetpack Compose**. I learned how to handle user interactions, manage UI state, and use essential debugging tools in Android Studio.
 
-## 🚀 Projects in this Module
+##  Projects in this Module
 
 ### 1. Interactive Dice Roller App
 A fun, interactive application that simulates a dice roll. Users can tap a button to generate a random number, and the app dynamically updates the dice image to reflect the result.
+
+![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/444c67de8d1a141128d8be7da9af4cb85b5513a4/Assets/B.png)
 
 #### Key Learnings & Skills:
 *   **Interactivity with Lambdas:** Implemented `onClick` handlers using Kotlin lambdas to trigger app logic.
@@ -26,10 +28,10 @@ An interactive multi-step application that takes users through the process of se
 *   **Visual Polish & Design Guidelines:** Configured precise Material Design parameters, including an `18sp` text size, `16dp` spacer arrangement, `RoundedCornerShape(4.dp)`, and a specialized border stroke color `RGB(105, 205, 216)`.
 *   **Accessibility Integration:** Integrated dynamic string resources and distinct content descriptions on all graphical elements to provide full support for screen readers.
 
-#### 📸 App Preview & Demonstration:
+####  App Preview & Demonstration:
 *   **Application Screenshot:**
     ![Lemonade App Preview](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/3a1998e42ec53bfc53d5042ef9e0e4ad480c11f1/Assets/A.png)
-*   **Video Walkthrough:** Watch the app in action on Google Drive: [Lemonade App Execution Video](https://drive.google.com/file/d/1ldeKdAjEKqIvLeprxVCib8eL-_0ZtUfy/view?usp=sharing)
+* **Video Link** – Dice Roller App Walkthrough: [Lemonade App Execution Video](https://drive.google.com/file/d/1ldeKdAjEKqIvLeprxVCib8eL-_0ZtUfy/view?usp=sharing)
 
 ---
 
