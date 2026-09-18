@@ -1,47 +1,48 @@
-# Mobile Application Learning Portfolio — CDE2313
+#  My Art Space App
 
-## Student Information
-- Name: Yalda Ashrafi
-- Student ID: AIU24102294
-- Programme: BACHELOR IN COMPUTER SCIENCE (HONOURS)
-- Course: CDE2313 – Mobile Application Development
-- Lecturer: Ts Mohd Zulkifli Mohd Zaki
-- Academic Session: 2025/2026, Semester 3
+An Android application built with **Kotlin** and **Jetpack Compose** to showcase a curated collection of artwork in an interactive gallery.  
 
-## Assessment Overview
-This repository is my individual GitHub Learning Portfolio for Assessment 1
-(Lab Exercises, 15%), documenting my progress through the Android Developers
-learning pathway, including source code, screenshots, badge evidence, and
-analytical reflections on the techniques covered.
+##  Overview
+This project demonstrates modern Android development practices:
+- Declarative UI with **Jetpack Compose**  
+- **State management** using `mutableIntStateOf`  
+- **Data modeling** with a custom `Artwork` class  
+- Responsive layout tested on phone and tablet  
+- Accessibility support with `contentDescription`  
 
-## Repository Structure
-- `Module-1` to `Module-4` — source code, screenshots, badge evidence, and
-  analysis for each learning module
-- `Reflection` — overall reflection on the learning journey
-- `References` — citations (APA 7th edition)
-- `Assets` — supporting images/files
+Users can browse artworks, view details (title, artist, year), and navigate with **Previous** and **Next** buttons.  
 
-## Learning Modules Completed
-| Module | Topic | Status |
-|--------|-------|--------|
-| 1 | [Topic] | In Progress |
-| 2 | [Topic] | Not Started |
-| 3 | [Topic] | Not Started |
-| 4 | [Topic] | Not Started |
+---
+##  Tech Stack
+- **Language:** Kotlin  
+- **Framework:** Jetpack Compose, Material Design 3  
+- **IDE:** Android Studio  
+- **Minimum SDK:** Android 8.0 (Oreo)  
 
-## Badges Obtained
+---
+## 💻 Features
+-  Displays framed artwork with metadata  
+-  Navigation between artworks  
+-  Responsive design across devices  
+-  Accessibility support  
 
-| Badge Name | Module | Date Earned |
-|------------|--------|-------------|
- 
-https://developers.google.com/profile/badges/recognitions/learnings
+---
 
-![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/e77ec7fbf5ee5d3c67d3fdc22dc69e1854bd4d36/Assets/Badges...png)
-## Android Developer Profile
+##  Screenshot
+![image alt](  https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/ecdfeb5fb481da90c4ea9cd994420fbe103bebd0/Assets/E.png)
 
-https://me.developers.google.com/u/102202673482972630051
+---
 
+## Getting Started
+1. Clone the repository and open in **Android Studio**.  
+2. Place artwork images in `res/drawable/`.  
+3. Run the app on an emulator or device.  
+4. Use **Next** and **Previous** buttons to browse artworks.  
 
-## Reflection Summary
-I learned how to build my first Android Studio app, starting with a simple “Hello Yalda” greeting.  
-This experience gave me confidence to explore more features and continue improving my coding skills.
+---
+
+## Author
+**Yalda Ashrafi**  
+Student Developer | Android Development  
+Kedah, Malaysia  
+
