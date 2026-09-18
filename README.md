@@ -1,4 +1,4 @@
-# 📱 Mobile Application Learning Portfolio — CDE2313
+#  Mobile Application Learning Portfolio — CDE2313
 
 ##  Student Information
 
