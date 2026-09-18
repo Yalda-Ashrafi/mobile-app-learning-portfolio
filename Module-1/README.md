@@ -120,7 +120,7 @@ Before running my application on a real device, I made sure I had:
 
 ---
 
-## 🔧 Steps I Followed
+##  Steps I Followed
 
 ### 1. Turned on USB Debugging
 
@@ -143,7 +143,7 @@ This allows the application to be deployed over Wi-Fi.
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 Some troubleshooting methods I learned include:
 
@@ -163,7 +163,7 @@ If the device is unauthorized:
 
 ---
 
-## 📱 Running the App on Emulator
+##  Running the App on Emulator
 
 Here is my Kotlin application running successfully on the Android Emulator:
 
