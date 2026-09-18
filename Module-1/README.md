@@ -291,7 +291,7 @@ By completing all three parts of Module 1, I developed foundational skills in bo
 
 ---
 
-# 🌱 Module 1 Reflection
+# Module 1 Reflection
 
 Module 1 gave me a strong foundation in **mobile application development**.
 
