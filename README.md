@@ -1,6 +1,6 @@
 # 📱 Mobile Application Learning Portfolio — CDE2313
 
-## 👩‍💻 Student Information
+##  Student Information
 
 | Information | Details |
 |------------|---------|
@@ -25,7 +25,7 @@ The work is organized into **four learning modules**, with each module building 
 
 ---
 
-# 📚 Learning Modules
+# Learning Modules
 
 | Module | Topic | Main Focus | Status |
 |--------|-------|------------|--------|
@@ -34,9 +34,10 @@ The work is organized into **four learning modules**, with each module building 
 | **Module 3** | Building Interactive Android UIs | State, recomposition, user interaction, Dice Roller & Lemonade apps | ✅ Completed |
 | **Module 4** | Interacting with UI and State | Tip Time, user input, state management, adaptive layouts | ✅ Completed |
 
+ ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0ae7f14632699a5ef6686be161e3bf5d44e217a1/Assets/ccc.png)
 ---
 
-# 🔹 Module 1 — Kotlin & Android Fundamentals
+#  Module 1 — Kotlin & Android Fundamentals
 
 Module 1 introduced the fundamental concepts required for Android development. It was completed in **three parts** under the `module-one` branch.
 
@@ -105,7 +106,7 @@ Module 1 helped me build a foundation in Kotlin and Android development, progres
 
 ---
 
-# 🔹 Module 2 — Kotlin Fundamentals Practice
+#  Module 2 — Kotlin Fundamentals Practice
 
 Module 2 focuses on strengthening Kotlin programming skills through a collection of practical programming exercises integrated into a **Jetpack Compose Android application**.
 
@@ -160,7 +161,7 @@ This module strengthened my understanding of Kotlin programming concepts and hel
 
 ---
 
-# 🔹 Module 3 — Building Interactive Android UIs
+#  Module 3 — Building Interactive Android UIs
 
 Module 3 focused on moving from static interfaces to **dynamic and interactive Android applications** using Jetpack Compose.
 
@@ -197,7 +198,7 @@ The Dice Roller App allows users to tap a button and generate a random dice valu
 
 ---
 
-## 🍋 Project 2 — Interactive Lemonade App
+##  Project 2 — Interactive Lemonade App
 
 The Lemonade App is a multi-step interactive application where users:
 
@@ -230,7 +231,7 @@ https://drive.google.com/file/d/1ldeKdAjEKqIvLeprxVCib8eL-_0ZtUfy/view?usp=shari
 
 ---
 
-## 🐞 Debugging Skills
+##  Debugging Skills
 
 During this module, I also practiced debugging Android applications using Android Studio.
 
@@ -249,7 +250,7 @@ Module 3 improved my understanding of how Android applications respond to user a
 
 ---
 
-# 🔹 Module 4 — Interacting with UI and State
+#  Module 4 — Interacting with UI and State
 
 Module 4 focuses on building a functional Android application called **Tip Time**.
 
@@ -257,7 +258,7 @@ The project demonstrates how user input, state management, calculations, and ada
 
 ---
 
-## 💰 Tip Time App
+##  Tip Time App
 
 The Tip Time application calculates a tip based on the user's input and allows the user to customize the tip percentage.
 
@@ -282,7 +283,7 @@ https://drive.google.com/file/d/13oH_4V-obi_SgFjfkcyBC8sDlRVvxCA2/view?usp=shari
 
 ---
 
-## 🧠 Concepts Learned
+##  Concepts Learned
 
 ### State and Recomposition
 
@@ -324,7 +325,7 @@ Module 4 helped me understand how to combine **user input, state management, cal
 
 ---
 
-# 🛠️ Overall Technology Stack
+#  Overall Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -339,7 +340,7 @@ Module 4 helped me understand how to combine **user input, state management, cal
 
 ---
 
-# 📈 Skills Developed Throughout the Portfolio
+#  Skills Developed Throughout the Portfolio
 
 Through Modules 1–4, I developed skills in:
 
@@ -391,7 +392,7 @@ Through Modules 1–4, I developed skills in:
 
 ---
 
-# 🏅 Google Android Developer Badges
+#  Google Android Developer Badges
 
 As part of my Android learning pathway, I also worked through the relevant Android Developers learning activities and collected badge evidence.
 
@@ -403,7 +404,7 @@ https://developers.google.com/profile/badges/recognitions/learnings
 
 ---
 
-# 👩‍💻 Android Developer Profile
+#  Android Developer Profile
 
 My Google Developer profile:
 
