@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 About This Portfolio
+## About This Portfolio
 
 Welcome to my **Mobile Application Development Learning Portfolio** for **CDE2313**.
 
@@ -29,10 +29,10 @@ The work is organized into **four learning modules**, with each module building 
 
 | Module | Topic | Main Focus | Status |
 |--------|-------|------------|--------|
-| **Module 1** | Kotlin & Android Fundamentals | Kotlin basics, Android Studio, device testing, Jetpack Compose | ✅ Completed |
-| **Module 2** | Kotlin Fundamentals Practice | Kotlin logic, classes, inheritance, null-safety, functional programming | ✅ Completed |
-| **Module 3** | Building Interactive Android UIs | State, recomposition, user interaction, Dice Roller & Lemonade apps | ✅ Completed |
-| **Module 4** | Interacting with UI and State | Tip Time, user input, state management, adaptive layouts | ✅ Completed |
+| **Module 1** | Kotlin & Android Fundamentals | Kotlin basics, Android Studio, device testing, Jetpack Compose |  Completed |
+| **Module 2** | Kotlin Fundamentals Practice | Kotlin logic, classes, inheritance, null-safety, functional programming |  Completed |
+| **Module 3** | Building Interactive Android UIs | State, recomposition, user interaction, Dice Roller & Lemonade apps |  Completed |
+| **Module 4** | Interacting with UI and State | Tip Time, user input, state management, adaptive layouts | Completed |
 
  ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/0ae7f14632699a5ef6686be161e3bf5d44e217a1/Assets/ccc.png)
 ---
