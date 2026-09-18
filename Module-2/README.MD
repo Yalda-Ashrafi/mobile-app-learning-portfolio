@@ -8,13 +8,13 @@ Each section covers a core concept — from conditionals and functions to classe
 ---
 
 ###  Features
-- 📱 **Mobile Notifications** – Conditional logic and string interpolation  
-- 🎟️ **Movie Ticket Price** – `when` expressions and function parameters  
-- 🌡️ **Temperature Converter** – Lambda expressions and higher‑order functions  
-- 🎵 **Song Catalog** – Class properties and computed getters  
-- 👤 **Internet Profile** – Nullable types and object references  
-- 📞 **Foldable Phone Simulation** – Inheritance and method overriding  
-- 💰 **Special Auction** – Null‑safety and Elvis operator usage  
+-  **Mobile Notifications** – Conditional logic and string interpolation  
+-  **Movie Ticket Price** – `when` expressions and function parameters  
+-  **Temperature Converter** – Lambda expressions and higher‑order functions  
+-  **Song Catalog** – Class properties and computed getters  
+-  **Internet Profile** – Nullable types and object references  
+-  **Foldable Phone Simulation** – Inheritance and method overriding  
+-  **Special Auction** – Null‑safety and Elvis operator usage  
 
 ---
 ![image alt](https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio/blob/e32814b6ad9330e4df98b8a39821ebc367710e23/Assets/F.png)
