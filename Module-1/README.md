@@ -1,4 +1,4 @@
-# 📱 Module 1 — Kotlin & Android Fundamentals
+# Module 1 — Kotlin & Android Fundamentals
 
 ## Overview
 
@@ -10,7 +10,7 @@ Through these three parts, I developed foundational skills in **Kotlin, Android 
 
 ---
 
-## 📚 Module 1 — Parts
+##  Module 1 — Parts
 
 | Part | Topic | Main Skills |
 |------|-------|-------------|
@@ -20,7 +20,7 @@ Through these three parts, I developed foundational skills in **Kotlin, Android 
 
 ---
 
-# 🔹 Part 1 — Kotlin Practice
+#  Part 1 — Kotlin Practice
 
 ## Overview
 
@@ -96,13 +96,13 @@ Chance of rain: 2%
 - **Language:** Kotlin
 - **JDK:** 20.0.1
 
-### 📝 Learning Reflection
+###  Learning Reflection
 
 These examples helped reinforce my understanding of Kotlin fundamentals, especially the difference between `val` and `var`, how functions encapsulate logic, and how parameters and arguments are used.
 
 ---
 
-# 🔹 Part 2 — Running Android Apps on a Physical Device
+#  Part 2 — Running Android Apps on a Physical Device
 
 ## Overview
 
@@ -173,7 +173,7 @@ Here is my Kotlin application running successfully on the Android Emulator:
 
 ---
 
-## 📝 Reflection
+##  Reflection
 
 This part taught me how to connect Android Studio to my computer and run applications directly on Android devices.
 
@@ -191,7 +191,7 @@ This project demonstrates modern Android UI development by creating a greeting c
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Jetpack Compose UI** — Fully declarative and modern Android UI framework
 - **Material 3 Design** — Modern design system for Android applications
@@ -201,7 +201,7 @@ This project demonstrates modern Android UI development by creating a greeting c
 
 ---
 
-## 💻 Code Highlight
+##  Code Highlight
 
 ```kotlin
 @Composable
@@ -266,7 +266,7 @@ git clone https://github.com/Yalda-Ashrafi/mobile-app-learning-portfolio.git
 
 ---
 
-# 🎯 Overall Module 1 Learning Outcomes
+# Overall Module 1 Learning Outcomes
 
 By completing all three parts of Module 1, I developed foundational skills in both **Kotlin programming and Android application development**.
 
